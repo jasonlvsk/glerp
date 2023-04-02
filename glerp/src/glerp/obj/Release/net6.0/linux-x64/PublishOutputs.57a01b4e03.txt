@@ -1,0 +1,6 @@
+C:\Users\Jason\Desktop\glerp\src\glerp\bin\Release\net6.0\publish\glerp.deps.json
+C:\Users\Jason\Desktop\glerp\src\glerp\bin\Release\net6.0\publish\glerp.runtimeconfig.json
+C:\Users\Jason\Desktop\glerp\src\glerp\bin\Release\net6.0\publish\glerp.pdb
+C:\Users\Jason\Desktop\glerp\src\glerp\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Jason\Desktop\glerp\src\glerp\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Jason\Desktop\glerp\src\glerp\bin\Release\net6.0\publish\glerp.dll

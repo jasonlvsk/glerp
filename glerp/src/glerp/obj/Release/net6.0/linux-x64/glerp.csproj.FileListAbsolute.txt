@@ -1,0 +1,17 @@
+C:\Users\Jason\Desktop\glerp\src\glerp\bin\Release\net6.0\linux-x64\glerp.deps.json
+C:\Users\Jason\Desktop\glerp\src\glerp\bin\Release\net6.0\linux-x64\glerp.runtimeconfig.json
+C:\Users\Jason\Desktop\glerp\src\glerp\bin\Release\net6.0\linux-x64\glerp.dll
+C:\Users\Jason\Desktop\glerp\src\glerp\bin\Release\net6.0\linux-x64\glerp.pdb
+C:\Users\Jason\Desktop\glerp\src\glerp\bin\Release\net6.0\linux-x64\Amazon.Lambda.Core.dll
+C:\Users\Jason\Desktop\glerp\src\glerp\bin\Release\net6.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Jason\Desktop\glerp\src\glerp\obj\Release\net6.0\linux-x64\glerp.csproj.AssemblyReference.cache
+C:\Users\Jason\Desktop\glerp\src\glerp\obj\Release\net6.0\linux-x64\glerp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\Desktop\glerp\src\glerp\obj\Release\net6.0\linux-x64\glerp.AssemblyInfoInputs.cache
+C:\Users\Jason\Desktop\glerp\src\glerp\obj\Release\net6.0\linux-x64\glerp.AssemblyInfo.cs
+C:\Users\Jason\Desktop\glerp\src\glerp\obj\Release\net6.0\linux-x64\glerp.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\glerp\src\glerp\obj\Release\net6.0\linux-x64\glerp.csproj.CopyComplete
+C:\Users\Jason\Desktop\glerp\src\glerp\obj\Release\net6.0\linux-x64\glerp.dll
+C:\Users\Jason\Desktop\glerp\src\glerp\obj\Release\net6.0\linux-x64\refint\glerp.dll
+C:\Users\Jason\Desktop\glerp\src\glerp\obj\Release\net6.0\linux-x64\glerp.pdb
+C:\Users\Jason\Desktop\glerp\src\glerp\obj\Release\net6.0\linux-x64\glerp.genruntimeconfig.cache
+C:\Users\Jason\Desktop\glerp\src\glerp\obj\Release\net6.0\linux-x64\ref\glerp.dll
